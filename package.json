@@ -1,0 +1,39 @@
+{
+  "name": "findgold",
+  "version": "1.0.0",
+  "description": "Application pour localiser et analyser des emplacements potentiels pour la recherche d'or",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@types/node": "^22.14.1",
+    "openai": "^4.0.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.1",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.8.3",
+    "vite": "^6.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/votre-username/findgold.git"
+  },
+  "keywords": [
+    "gold",
+    "prospecting",
+    "rivers",
+    "geology",
+    "ai",
+    "analysis"
+  ],
+  "author": "",
+  "license": "MIT"
+}
